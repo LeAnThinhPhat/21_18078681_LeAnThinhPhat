@@ -56,7 +56,7 @@ public class CustomAdapter extends BaseAdapter {
         btnDelete.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=  new Intent(context,Delete_empl.class);
+                Intent intent=  new Intent(context,Delete_warming.class);
                 intent.putExtra("id",empls.get(position).getId());
 //                    intent.putExtra("mess",muser);
                 context.startActivity(intent);
