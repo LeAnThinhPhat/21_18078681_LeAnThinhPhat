@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685007580567",
+    "project_id": "leanthinhphat-6010a",
+    "storage_bucket": "leanthinhphat-6010a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685007580567:android:e11ccf3fe3e1af1e3fa8d2",
+        "android_client_info": {
+          "package_name": "com.example.a21_18078681_leanthinhphat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685007580567-iqvlq64usj4d5e0enhrptbe6hctc65u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYF6ZzuzZXXMQ7AlCQeQv-NNAZHJDwZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685007580567-iqvlq64usj4d5e0enhrptbe6hctc65u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
