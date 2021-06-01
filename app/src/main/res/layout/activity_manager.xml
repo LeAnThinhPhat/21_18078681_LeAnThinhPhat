@@ -26,7 +26,7 @@
         android:layout_height="163dp"
         android:layout_marginTop="68dp"
         android:background="#FFFFFF"
-        android:backgroundTint="#B1AE49"
+        android:backgroundTint="#D8C048"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
