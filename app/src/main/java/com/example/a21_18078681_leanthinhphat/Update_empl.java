@@ -70,8 +70,8 @@ public class Update_empl extends AppCompatActivity {
             protected Map<String, String> getParams() throws AuthFailureError {
                 HashMap<String, String> params = new HashMap<>();
                 params.put("name", txtName.getText().toString());
-                params.put("lastName", txtAge.getText().toString());
-                params.put("firstName", txtDep.getText().toString());
+                params.put("age", txtAge.getText().toString());
+                params.put("dep", txtDep.getText().toString());
                 return params;
             }
         };
